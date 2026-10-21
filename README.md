@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://cdn.modrinth.com/data/r7pO04ED/images/0fc3204da18066142c38383080d7b542f594092b.png" alt="Rex Shaders" width="100%"> </p> <p align="center"> <b>A lightweight, FPS-friendly shader pack for Minecraft with a warm, nostalgic look.</b><br> Soft shadows · Reflective water · Dynamic sky · Atmospheric fog · Waving plants </p> <p align="center"> <a href="https://modrinth.com/shader/rexshader">Modrinth</a> · <a href="../../issues">Report a bug</a> <a href="https://craftrank.org/">CraftRank</a> </p>
+<p align="center"> <img src="https://cdn.modrinth.com/data/r7pO04ED/images/0fc3204da18066142c38383080d7b542f594092b.png" alt="Rex Shaders" width="100%"> </p> <p align="center"> <b>A lightweight, FPS-friendly shader pack for Minecraft with a warm, nostalgic look.</b><br> Soft shadows · Reflective water · Dynamic sky · Atmospheric fog · Waving plants </p> <p align="center"> <a href="https://modrinth.com/shader/rexshader">Modrinth</a> · <a href="../../issues">Report a bug</a> · <a href="https://craftrank.org/">CraftRank</a> </p>
 
 ## ✨ Features
 
